@@ -1,6 +1,3 @@
-import sys
+from nltk.book import *
 
-x=sys.executable
-print(x)
-y=1+2
-print(y)
+sents()
