@@ -1,3 +1,8 @@
 {
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.pythonPath": "/home/guci/anaconda3/envs/test/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8892?token=95d0de3b3a870e6d6d12aa8afad95411e59faed3cfdba5ea"
 }
