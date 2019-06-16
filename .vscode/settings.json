@@ -2,6 +2,8 @@
     "python.formatting.provider": "black",
     "python.linting.enabled": false,
     "python.linting.mypyEnabled": true,
-    "python.pythonPath": "/home/guci/anaconda3/envs/test/bin/python",
-    "python.linting.pylintEnabled": false
+    "python.pythonPath": "/home/guci/anaconda3/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.jediEnabled": true,
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=2772af0f3913cbbc6bc08fabc73b1bee69021428c6cf4db6"
 }
