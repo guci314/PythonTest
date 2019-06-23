@@ -124,7 +124,21 @@ plt.plot(testData,testResult,'r+')
 
 #%%
 df=pd.read_csv('sklearn_pycon2015/notebooks/pokemon_data.csv')
-df.head()
+df
 
 #%%
-df.loc[df['Type 1']=='Grass']
+a=np.random.random((10,3))
+df1=DataFrame(a,columns=['a','b','c'])
+df1
+
+#%%
+x=[1,2,3]
+y=[2,4,6]
+plt.plot(x,y,'b^-',label='aaaaa')
+plt.plot(y,x,'r',label='bbbbb')
+plt.title('aaaa',fontdict={'fontsize':30})
+plt.xlabel("dddd")
+plt.ylabel("vvvv")
+plt.legend()
+plt.show()
+#%%

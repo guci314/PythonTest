@@ -1,0 +1,162 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APPLICATION_NAME	../quickstart.py	/^APPLICATION_NAME = 'Gmail API Python Quickstart'$/;"	kind:variable	line:18
+BBB	../test.py	/^class BBB:$/;"	kind:class	line:32
+CLIENT_SECRET_FILE	../quickstart.py	/^CLIENT_SECRET_FILE = '\/home\/guci\/shell\/client_secret.json'$/;"	kind:variable	line:17
+ControllBar	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^class ControllBar(object):$/;"	kind:class	line:256
+Controller	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^class Controller(object):$/;"	kind:class	line:76
+ML_flow_chart.py	../sklearn_pycon2015/notebooks/fig_code/ML_flow_chart.py	1;"	kind:file	line:1
+Model	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^class Model(object):$/;"	kind:class	line:44
+SCOPES	../quickstart.py	/^SCOPES = 'https:\/\/www.googleapis.com\/auth\/gmail.readonly'$/;"	kind:variable	line:16
+SolrApi	../solrApi.py	/^class SolrApi(SolrClient):$/;"	kind:class	line:4
+Untitled-1.py	../Untitled-1.py	1;"	kind:file	line:1
+View	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^class View(object):$/;"	kind:class	line:139
+X	../test2.py	/^class X:$/;"	kind:class	line:36
+XXX	../test.py	/^class XXX:$/;"	kind:class	line:28
+__init__	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def __init__(self):$/;"	kind:member	line:50
+__init__	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def __init__(self, model):$/;"	kind:member	line:77
+__init__	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def __init__(self, root, controller):$/;"	kind:member	line:141
+__init__	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def __init__(self, root, controller):$/;"	kind:member	line:257
+__init__	../solrApi.py	/^    def __init__(self,host):$/;"	kind:member	line:5
+__init__.py	../sklearn_pycon2015/notebooks/fig_code/__init__.py	1;"	kind:file	line:1
+_kmeans_step	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^        def _kmeans_step(frame=0, n_clusters=4):$/;"	kind:function	line:130
+a	../test2.py	/^a=np.random.random((10,3))$/;"	kind:variable	line:130
+aaa	../test2.py	/^aaa = nptest()$/;"	kind:variable	line:22
+addSuffix	../Untitled-1.py	/^def addSuffix(filename):$/;"	kind:function	line:89
+addSuffixInFolders	../Untitled-1.py	/^def addSuffixInFolders(folder):$/;"	kind:function	line:99
+add_example	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def add_example(self, x, y, label):$/;"	kind:member	line:126
+add_observer	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def add_observer(self, observer):$/;"	kind:member	line:62
+b	../test.py	/^b=BBB()$/;"	kind:variable	line:41
+changed	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def changed(self, event):$/;"	kind:member	line:57
+clear_data	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def clear_data(self):$/;"	kind:member	line:121
+cmap_bold	../sklearn_pycon2015/notebooks/fig_code/helpers.py	/^cmap_bold = ListedColormap(['#FF0000', '#00FF00', '#0000FF'])$/;"	kind:variable	line:12
+cmap_light	../sklearn_pycon2015/notebooks/fig_code/helpers.py	/^cmap_light = ListedColormap(['#FFAAAA', '#AAFFAA', '#AAAAFF'])$/;"	kind:variable	line:11
+conn	../Untitled-1.py	/^conn = urlopen('http:\/\/127.0.0.1:8983\/solr\/files\/select?q='+q+'&&wt=python')$/;"	kind:variable	line:13
+create_base	../sklearn_pycon2015/notebooks/fig_code/ML_flow_chart.py	/^def create_base(box_bg = '#CCCCCC',$/;"	kind:function	line:12
+d	../Untitled-1.py	/^d=j["response"]["docs"]$/;"	kind:variable	line:206
+data	../test2.py	/^data = [['tom', 10], ['nick', 15], ['juli', 14]] $/;"	kind:variable	line:57
+data	../test2.py	/^data = {'Name':['Tom', 'Jack', 'nick', 'juli'], 'marks':[99, 98, 95, 90]} $/;"	kind:variable	line:76
+data	../test2.py	/^data = {'Name':['Tom', 'nick', 'krish', 'jack'], 'Age':[20, 21, 19, 18]} $/;"	kind:variable	line:67
+data	../test2.py	/^data=[[1,2,3],[4,5,6],[7,8,9]] $/;"	kind:variable	line:85
+data	../test2.py	/^data=np.random.random(size=100)*3$/;"	kind:variable	line:111
+data.py	../sklearn_pycon2015/notebooks/fig_code/data.py	1;"	kind:file	line:1
+decision_surface	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def decision_surface(self, cls):$/;"	kind:member	line:112
+deviation	../test2.py	/^deviation=np.random.randn(100)$/;"	kind:variable	line:113
+df	../test.py	/^df = df[['Adj. Close', 'HL_PCT', 'PCT_change', 'Adj. Volume']]$/;"	kind:variable	line:64
+df	../test.py	/^df = df[['Adj. Open',  'Adj. High',  'Adj. Low',  'Adj. Close', 'Adj. Volume']]$/;"	kind:variable	line:61
+df	../test.py	/^df = quandl.get("WIKI\/GOOGL")$/;"	kind:variable	line:55
+df	../test2.py	/^df = pd.DataFrame(data) $/;"	kind:variable	line:70
+df	../test2.py	/^df = pd.DataFrame(data, columns = ['Name', 'Age']) $/;"	kind:variable	line:60
+df	../test2.py	/^df = pd.DataFrame(data, index =['rank1', 'rank2', 'rank3', 'rank4']) $/;"	kind:variable	line:79
+df	../test2.py	/^df=pd.read_csv('sklearn_pycon2015\/notebooks\/pokemon_data.csv')$/;"	kind:variable	line:126
+df1	../test2.py	/^df1 = pd.DataFrame(data) $/;"	kind:variable	line:87
+df1	../test2.py	/^df1=DataFrame(a,columns=['a','b','c'])$/;"	kind:variable	line:131
+doc	../Untitled-1.py	/^doc = [{'id': '\/home\/guci\/我的坚果云\/books\/变态楼主.txt', 'attr_tag':{'add':'1111111111'}}]$/;"	kind:variable	line:221
+doc	../test.py	/^doc=pipline(s2)$/;"	kind:variable	line:13
+dump_svmlight_file	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def dump_svmlight_file(self, file):$/;"	kind:member	line:69
+elements	../Untitled-1.py	/^elements= json.loads(pcs.list_files("\/快盘\/pda\/backup\/Books").content.decode())["list"] $/;"	kind:variable	line:152
+f	../Untitled-1.py	/^f = open('\/home\/guci\/temp\/output.txt', 'wb')$/;"	kind:variable	line:193
+f	../Untitled-1.py	/^f="\/快盘\/pda\/backup\/Books\/漂亮前女友.txt"$/;"	kind:variable	line:168
+f	../Untitled-1.py	/^f="\/快盘\/pda\/backup\/Books\/漂亮前女友.txt"$/;"	kind:variable	line:190
+f	../test.py	/^    def f(self):$/;"	kind:member	line:29
+f	../test.py	/^    def f(self):$/;"	kind:member	line:36
+f	../test2.py	/^    def f(self):$/;"	kind:member	line:37
+f	../test2.py	/^def f(x:int)->int:$/;"	kind:function	line:26
+figures.py	../sklearn_pycon2015/notebooks/fig_code/figures.py	1;"	kind:file	line:1
+fit	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def fit(self):$/;"	kind:member	line:84
+flags	../quickstart.py	/^    flags = None$/;"	kind:variable	line:14
+flags	../quickstart.py	/^    flags = argparse.ArgumentParser(parents=[tools.argparser]).parse_args()$/;"	kind:variable	line:12
+formatter	../test2.py	/^formatter = plt.FuncFormatter(lambda i, *args: iris.target_names[int(i)])$/;"	kind:variable	line:100
+func	../solrApi.py	/^    def func(self):$/;"	kind:member	line:9
+getAllId	../solrApi.py	/^    def getAllId(self,collection):$/;"	kind:member	line:26
+get_credentials	../quickstart.py	/^def get_credentials():$/;"	kind:function	line:21
+get_parser	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^def get_parser():$/;"	kind:function	line:317
+helpers.py	../sklearn_pycon2015/notebooks/fig_code/helpers.py	1;"	kind:file	line:1
+indexFile	../Untitled-1.py	/^def indexFile(file):$/;"	kind:function	line:132
+indexFolder	../Untitled-1.py	/^def indexFolder(folder):$/;"	kind:function	line:53
+indexFolder	../solrApi.py	/^    def indexFolder(self,collection,folder):$/;"	kind:member	line:33
+interactive_tree	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^    def interactive_tree(depth=1):$/;"	kind:function	line:111
+j	../Untitled-1.py	/^j=json.loads(r.text)$/;"	kind:variable	line:205
+linear_data_sample	../sklearn_pycon2015/notebooks/fig_code/data.py	/^def linear_data_sample(N=40, rseed=0, m=3, b=-2):$/;"	kind:function	line:4
+linear_data_sample_big_errs	../sklearn_pycon2015/notebooks/fig_code/data.py	/^def linear_data_sample_big_errs(N=40, rseed=0, m=3, b=-2):$/;"	kind:function	line:14
+linear_regression.py	../sklearn_pycon2015/notebooks/fig_code/linear_regression.py	1;"	kind:file	line:1
+listFolder	../Untitled-1.py	/^def listFolder(folder):$/;"	kind:function	line:134
+main	../quickstart.py	/^def main():$/;"	kind:function	line:50
+main	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^def main(argv):$/;"	kind:function	line:326
+model	../test2.py	/^model = SVR()$/;"	kind:variable	line:119
+nptest	../test2.py	/^def nptest():$/;"	kind:function	line:16
+onclick	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def onclick(self, event):$/;"	kind:member	line:180
+onkeypress	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def onkeypress(self, event):$/;"	kind:member	line:172
+onkeyrelease	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def onkeyrelease(self, event):$/;"	kind:member	line:176
+p	../Untitled-1.py	/^p={}$/;"	kind:variable	line:173
+pcs	../Untitled-1.py	/^pcs = PCS('guci314@gmail.com','guci700127')$/;"	kind:variable	line:126
+pipline	../test.py	/^pipline=stanfordnlp.Pipeline(lang="zh")$/;"	kind:variable	line:4
+plot_boundaries	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^    def plot_boundaries(i, xlim, ylim):$/;"	kind:function	line:84
+plot_decision_surface	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def plot_decision_surface(self, surface, type):$/;"	kind:member	line:237
+plot_example_decision_tree	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def plot_example_decision_tree():$/;"	kind:function	line:17
+plot_image_components	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def plot_image_components(x, coefficients=None, mean=0, components=None,$/;"	kind:function	line:185
+plot_iris_knn	../sklearn_pycon2015/notebooks/fig_code/helpers.py	/^def plot_iris_knn():$/;"	kind:function	line:14
+plot_kernels	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def plot_kernels(self):$/;"	kind:member	line:167
+plot_kmeans_interactive	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def plot_kmeans_interactive(min_clusters=1, max_clusters=6):$/;"	kind:function	line:119
+plot_linear_regression	../sklearn_pycon2015/notebooks/fig_code/linear_regression.py	/^def plot_linear_regression():$/;"	kind:function	line:6
+plot_pca_interactive	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def plot_pca_interactive(data, n_components=6):$/;"	kind:function	line:222
+plot_polynomial_regression	../sklearn_pycon2015/notebooks/fig_code/helpers.py	/^def plot_polynomial_regression():$/;"	kind:function	line:41
+plot_sgd_separator	../sklearn_pycon2015/notebooks/fig_code/sgd_separator.py	/^def plot_sgd_separator():$/;"	kind:function	line:6
+plot_supervised_chart	../sklearn_pycon2015/notebooks/fig_code/ML_flow_chart.py	/^def plot_supervised_chart(annotate=False):$/;"	kind:function	line:108
+plot_support_vectors	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def plot_support_vectors(self, support_vectors):$/;"	kind:member	line:229
+plot_tree_interactive	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def plot_tree_interactive(X, y):$/;"	kind:function	line:108
+plot_unsupervised_chart	../sklearn_pycon2015/notebooks/fig_code/ML_flow_chart.py	/^def plot_unsupervised_chart():$/;"	kind:function	line:125
+plot_venn_diagram	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def plot_venn_diagram():$/;"	kind:function	line:6
+postFile	../Untitled-1.py	/^def postFile(file):$/;"	kind:function	line:29
+postFile	../solrApi.py	/^    def postFile(self,collection,file):$/;"	kind:member	line:11
+q	../Untitled-1.py	/^q=urllib.parse.quote("\\"漂亮前女友\\"")$/;"	kind:variable	line:12
+quickstart.py	../quickstart.py	1;"	kind:file	line:1
+r	../Untitled-1.py	/^r = requests.post(url, data=x,params=p)$/;"	kind:variable	line:177
+r	../Untitled-1.py	/^r = requests.post(url, json=doc)$/;"	kind:variable	line:222
+r	../Untitled-1.py	/^r=requests.get(s)$/;"	kind:variable	line:204
+refit	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def refit(self):$/;"	kind:member	line:133
+remove_surface	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def remove_surface(self):$/;"	kind:member	line:218
+response	../Untitled-1.py	/^response = eval(conn.read())$/;"	kind:variable	line:14
+s	../Untitled-1.py	/^s=pcs.download(f).content.decode(encoding='gbk')$/;"	kind:variable	line:191
+s	../test.py	/^s='ppppppppppp'$/;"	kind:variable	line:46
+s	../test2.py	/^s='ppppppppppp'$/;"	kind:variable	line:33
+s1	../test.py	/^s1='2018年8月，因为做生意资金短缺，成都市民王倩向4款APP贷款了2万元。没想到，这笔贷款竟成为了她的噩梦，此后越滚越多，截至今年5月，王倩称她一共还款100多万元'$/;"	kind:variable	line:5
+s2	../test.py	/^s2="这是一个中文测试语句"$/;"	kind:variable	line:12
+sample_light_curve	../sklearn_pycon2015/notebooks/fig_code/data.py	/^def sample_light_curve(phased=True):$/;"	kind:function	line:25
+sample_light_curve_2	../sklearn_pycon2015/notebooks/fig_code/data.py	/^def sample_light_curve_2(phased=True):$/;"	kind:function	line:37
+set_surface	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def set_surface(self, surface):$/;"	kind:member	line:66
+sgd_separator.py	../sklearn_pycon2015/notebooks/fig_code/sgd_separator.py	1;"	kind:file	line:1
+show	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^    def show(i, j, x, title=None):$/;"	kind:function	line:199
+show_decomp	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^    def show_decomp(i=0):$/;"	kind:function	line:229
+solr	../solrApi.py	/^solr=SolrApi('http:\/\/127.0.0.1:8983\/solr')$/;"	kind:variable	line:56
+solrApi.py	../solrApi.py	1;"	kind:file	line:1
+svm_gui.py	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	1;"	kind:file	line:1
+target	../test2.py	/^target=data*2+1$/;"	kind:variable	line:112
+target	../test2.py	/^target=target+deviation$/;"	kind:variable	line:116
+test.py	../test.py	1;"	kind:file	line:1
+test2.py	../test2.py	1;"	kind:file	line:1
+testData	../test2.py	/^testData=np.linspace(0, 3, 100)$/;"	kind:variable	line:121
+testResult	../test2.py	/^testResult=model.predict(testData[:,np.newaxis])$/;"	kind:variable	line:122
+text	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^    def text(ax, x, y, t, size=20, **kwargs):$/;"	kind:function	line:22
+update	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def update(self, event, model):$/;"	kind:member	line:195
+update_example	../sklearn_pycon2015/notebooks/fig_code/svm_gui.py	/^    def update_example(self, model, idx):$/;"	kind:member	line:187
+url	../Untitled-1.py	/^url = "http:\/\/localhost:8983\/solr\/gettingstarted\/update\/extract"$/;"	kind:variable	line:172
+visualize_tree	../sklearn_pycon2015/notebooks/fig_code/figures.py	/^def visualize_tree(estimator, X, y, boundaries=True,$/;"	kind:function	line:54
+x	../Untitled-1.py	/^x=pcs.download(f).content #.decode(encoding='gbk').encode(encoding='utf8')$/;"	kind:variable	line:170
+x	../Untitled-1.py	/^x=response['response']['docs']$/;"	kind:variable	line:17
+x	../test.py	/^x = np.linspace(0, 20, 100)$/;"	kind:variable	line:23
+x	../test.py	/^x=XXX()$/;"	kind:variable	line:39
+x	../test2.py	/^    x=5\/0$/;"	kind:variable	line:50
+x	../test2.py	/^x=X()$/;"	kind:variable	line:39
+x	../test2.py	/^x=[1,2,3]$/;"	kind:variable	line:135
+x	../test2.py	/^x=np.arange(10)$/;"	kind:variable	line:43
+x_index	../test2.py	/^x_index = 2$/;"	kind:variable	line:97
+y	../test2.py	/^y=[2,4,6]$/;"	kind:variable	line:136
+y	../test2.py	/^y=f(7)$/;"	kind:variable	line:29
+y	../test2.py	/^y=np.mean(x)$/;"	kind:variable	line:46
+y	../test2.py	/^y=np.sum(x)$/;"	kind:variable	line:45
+y_index	../test2.py	/^y_index = 1$/;"	kind:variable	line:98
